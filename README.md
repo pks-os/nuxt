@@ -5,7 +5,7 @@
 <p>
   <a href="https://www.npmjs.com/package/nuxt"><img src="https://img.shields.io/npm/v/nuxt.svg?style=flat&colorA=18181B&colorB=28CF8D" alt="Version"></a>
   <a href="https://www.npmjs.com/package/nuxt"><img src="https://img.shields.io/npm/dm/nuxt.svg?style=flat&colorA=18181B&colorB=28CF8D" alt="Downloads"></a>
-  <a href="./LICENSE"><img src="https://img.shields.io/github/license/nuxt/nuxt.svg?style=flat&colorA=18181B&colorB=28CF8D" alt="License"></a>
+  <a href="https://github.com/nuxt/nuxt/tree/main/LICENSE"><img src="https://img.shields.io/github/license/nuxt/nuxt.svg?style=flat&colorA=18181B&colorB=28CF8D" alt="License"></a>
   <a href="https://nuxt.com"><img src="https://img.shields.io/badge/Nuxt%20Docs-18181B?logo=nuxt.js" alt="Website"></a>
   <a href="https://chat.nuxt.dev"><img src="https://img.shields.io/badge/Nuxt%20Discord-18181B?logo=discord" alt="Discord"></a>
 </p>
@@ -101,12 +101,6 @@ Here are a few ways you can get involved:
 
 Follow the docs to [Set Up Your Local Development Environment](https://nuxt.com/docs/community/framework-contribution#setup) to contribute to the framework and documentation.
 
-## <a name="nuxt-2">⛰️ Nuxt 2</a>
-
-You can find the code for Nuxt 2 on the [`2.x` branch](https://github.com/nuxt/nuxt/tree/2.x) and the documentation at [v2.nuxt.com](https://v2.nuxt.com).
-
-If you expect to be using Nuxt 2 beyond the EOL (End of Life) date (June 30, 2024), and still need a maintained version that can satisfy security and browser compatibility requirements, make sure to check out [HeroDevs’ NES (Never-Ending Support) Nuxt 2](https://www.herodevs.com/support/nuxt-nes?utm_source=nuxt-github&utm_medium=nuxt-readme).
-
 ## <a name="professional-support">🛟 Professional Support</a>
 
 - Technical audit & consulting: [Nuxt Experts](https://nuxt.com/enterprise/support)
@@ -120,4 +114,4 @@ If you expect to be using Nuxt 2 beyond the EOL (End of Life) date (June 30, 202
 
 ## <a name="license">⚖️ License</a>
 
-[MIT](./LICENSE)
+[MIT](https://github.com/nuxt/nuxt/tree/main/LICENSE)
