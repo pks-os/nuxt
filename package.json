@@ -54,7 +54,7 @@
   },
   "devDependencies": {
     "@eslint/js": "9.9.0",
-    "@nuxt/eslint-config": "0.5.1",
+    "@nuxt/eslint-config": "0.5.2",
     "@nuxt/kit": "workspace:*",
     "@nuxt/test-utils": "3.14.1",
     "@nuxt/webpack-builder": "workspace:*",
@@ -63,6 +63,7 @@
     "@types/node": "20.16.1",
     "@types/semver": "7.5.8",
     "@unhead/schema": "1.10.0",
+    "@unhead/vue": "1.10.0",
     "@vitejs/plugin-vue": "5.1.2",
     "@vitest/coverage-v8": "2.0.5",
     "@vue/test-utils": "2.4.6",
@@ -101,7 +102,7 @@
     "vue-router": "4.4.3",
     "vue-tsc": "2.0.29"
   },
-  "packageManager": "pnpm@9.7.1",
+  "packageManager": "pnpm@9.8.0",
   "engines": {
     "node": "^16.10.0 || >=18.0.0"
   },
