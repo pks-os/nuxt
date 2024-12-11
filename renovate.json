@@ -14,10 +14,8 @@
       "groupName": "vitest",
       "matchPackageNames": [
         "vite-node",
-        "vitest"
-      ],
-      "matchPackagePatterns": [
-        "^@vitest/"
+        "vitest",
+        "/^@vitest//"
       ]
     },
     {
@@ -37,12 +35,6 @@
       "groupName": "typescript",
       "matchPackageNames": [
         "typescript"
-      ]
-    },
-    {
-      "groupName": "unimport",
-      "matchPackageNames": [
-        "unimport"
       ]
     },
     {
