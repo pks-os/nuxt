@@ -141,7 +141,7 @@
   },
   "peerDependencies": {
     "@parcel/watcher": "^2.1.0",
-    "@types/node": "^18.0.0 || ^20.0.0 || >=22.0.0"
+    "@types/node": ">=18.12.0"
   },
   "peerDependenciesMeta": {
     "@parcel/watcher": {
